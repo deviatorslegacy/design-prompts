@@ -5,6 +5,21 @@ I started working on this because I want to be better at UI design.
 I'm using the amazing [Designercize][0] tool, because it generates some
 very interesting prompts and I'm in love with the theme.
 
+
+# View projects
+
+Make sure git, node, and yarn are installed on your computer.
+- Clone this repository: 
+`git clone https://github.com/deviatorslegacy/design-prompts.git`.
+- Go into directory: 
+`cd design-prompts`.
+- Install dependencies: 
+`yarn install`.
+- Start server: 
+`yarn run start`.
+
+That's it! A server is now running on http://localhost:3000.
+
 # Copyright
 
 MIT License
