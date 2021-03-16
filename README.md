@@ -1,9 +1,3 @@
-<style>
-/* CSS styling */
-h1 { color: #0055ff; }
-a { color: #111fff !important }
-</style>
-
 # Design Prompts
 
 I started working on this because I want to be better at UI design.
