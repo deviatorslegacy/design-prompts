@@ -1,0 +1,16 @@
+{
+  "name": "design-prompts",
+  "version": "1.0.0",
+  "description": "Web design prompts using Designercize.",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -p 3000 -d designs/"
+  },
+  "repository": "git@github.com:deviatorslegacy/design-prompts.git",
+  "author": "DeviatorsLegacy <deviatorslegacy@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "httpster": "^1.2.0"
+  }
+}
